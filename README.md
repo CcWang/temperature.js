@@ -1,4 +1,5 @@
 # Visualize Temperature Changes
+## [Click to play](https://ccwang.github.io/visualTemp/index.html)
 ## Features
 * Each point of the x-axis is a day
 * The letters and the vertical lines in the x-axis represent weeks
