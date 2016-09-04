@@ -161,10 +161,10 @@ $(document).ready(function () {
 	$('#toggleC').click(function(){
 		if (tempType === 'c'){
 			tempType = 'f'
-		}else{
+		}else if(tempType ==='f'){
 			tempType = 'c'
 		}
-		setSeries(month.indexOf(currentMon));
+		setSeries(month.indexOf(currentMon)+1);
 		chart.yAxis[0].axisTitle.attr({
 			text: 'Temperature (˚' + tempType.toUpperCase() +')'
 		});  
