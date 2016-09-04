@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8" >
+	<title>Temperature Chart</title>
+	<script type="text/javascript" src='static/jquery.min.js'></script>
+	<script type="text/javascript" src='static/highcharts.js'></script>
+	<script type="text/javascript" src='static/exporting.js'></script>
+	<script type="text/javascript" src='static/main.js'></script>
+	<link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
+	<style type="text/css">
+		body{
+			background-color: black;
+		}
+		#container,#wrap{
+			min-width: 350px;
+			max-width: 560px;
+			height: 650px;
+			margin: 0 auto;
+		}
+		#wrap{
+			padding-top: 50px;
+			background-color: #2C4B5D;
+			height: 760px;
+		}
+		#arrows *{
+			display: inline-block;
+		}
+		#wrap #arrows h2{
+			text-align: center;
+			margin: 0 auto;
+			color: white;
+			font-family: 'Raleway',sans-serif;
+			font-size: 2em;
+		}
+		#pre{
+			margin-right: 20%;
+		}
+		#next{
+			margin-left: 20%;
+		}
+		#arrows h2{
+			width: 40%
+		}
+		#wrap h4{
+			text-align: center;
+			margin: 0 auto;
+			color: white;
+			font-family: 'Raleway',sans-serif;
+			font-size: 0.8em;
+		}
+		span:hover, h4:hover{
+			cursor: pointer;
+		}
+
+	</style>
+</head>
+<body>
+	<div id='wrap' >
+		
+		<div id='arrows'>
+			<img src="static/imgs/arrow_left.svg" alt="<" id='pre'>
+			
+			<h2>March 2016</h2>
+			
+			<img src="static/imgs/arrow_right.svg" alt=">" id='next' >
+		</div>
+	
+		<div id='container'>
+			
+		</div>
+		<h4 id='toggleC'>Toggle Fahrenheit/Celsius</h4>
+	</div>
+</body>
+</html>
