@@ -1,8 +1,8 @@
 # Visualize Temperature Changes
 
-###live demo
+## [live demo](https://www.youtube.com/watch?v=em-OPRsEaps)
 
-[![IMAGE ALT TEXT HERE](https://raw.github.com/CcWang/visualTemp/master/static/imgs/demo.png)](https://www.youtube.com/watch?v=em-OPRsEaps)
+[![IMAGE ALT TEXT HERE](https://raw.github.com/CcWang/visualTemp/master/static/imgs/demo.png)]
 ## [Click to play](https://ccwang.github.io/visualTemp/index.html)
 ## Features
 * Each point of the x-axis is a day
