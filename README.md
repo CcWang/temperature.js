@@ -1,9 +1,9 @@
 # Visualize Temperature Changes
 
-## [live demo](https://www.youtube.com/watch?v=em-OPRsEaps)
+## [Live Demo](https://www.youtube.com/watch?v=em-OPRsEaps)  | [Click to play](https://ccwang.github.io/visualTemp/index.html)
 
-[![IMAGE ALT TEXT HERE](https://raw.github.com/CcWang/visualTemp/master/static/imgs/demo.png)]
-## [Click to play](https://ccwang.github.io/visualTemp/index.html)
+[![IMAGE ALT TEXT HERE](https://raw.github.com/CcWang/visualTemp/master/static/imgs/demo.png)
+
 ## Features
 * Each point of the x-axis is a day
 * The letters and the vertical lines in the x-axis represent weeks
