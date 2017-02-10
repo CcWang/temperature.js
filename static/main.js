@@ -21,8 +21,8 @@ $(document).ready(function () {
       chart: {
           type: 'area',
           backgroundColor:'#2C4B5D',
-          ploar:true,
-          type:'area'
+          ploar:true
+          
       },
       title: {
           text: 'Area Chart',
