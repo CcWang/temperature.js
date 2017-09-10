@@ -1,6 +1,6 @@
 # Visualize Temperature Changes
 
-## [Live Demo](https://www.youtube.com/watch?v=em-OPRsEaps)  | [Click to play](https://ccwang.github.io/visualTemp/index.html)
+## [Live Demo](https://www.youtube.com/watch?v=em-OPRsEaps)  | [Click to play](https://ccwang.github.io/temperature.js/index.html)
 
 ![IMAGE ALT TEXT HERE](https://raw.github.com/CcWang/visualTemp/master/static/imgs/demo.png)
 
