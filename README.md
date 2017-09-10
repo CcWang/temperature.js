@@ -12,11 +12,11 @@
 * The chart should show the temperatures for one month; the arrows should allow the exploration of different months
 * Bonus: include a button to convert the y-axis ticks to Celsius (and back to Fahrenheit) in real time
 
-### data I used
+### Data I used
 ***
 * Year 2015 (Jan-Jun) to Year 2016 (Jan-Jun)
 
-### how to play
+### How to play
 ***
 1. git clone https://github.com/CcWang/visualTemp.git
 2. open index.html
